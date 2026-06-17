@@ -1,0 +1,6 @@
+{
+  "name": "e.onlineFever",
+  "description": "オンラインで遊べるパチンコ擬似シミュレーター。おなじみのボール落下挙動、高揚感のあるリーチ演出、押しボタンチャンス、確率変動ラッシュ（Fever）をフル搭載し、実機のような興奮を体験。音響とビジュアルエフェクトが織りなす究極のパーラー体験。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
